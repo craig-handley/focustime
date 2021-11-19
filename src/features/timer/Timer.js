@@ -3,7 +3,6 @@ import { View, StyleSheet, Text, Vibration, Platform } from 'react-native';
 import { ProgressBar } from 'react-native-paper';
 import { useKeepAwake } from 'expo-keep-awake';
 
-import { colors } from '../../utils/colors';
 import { spacing } from '../../utils/sizes';
 
 import { Countdown } from '../../components/Countdown';
